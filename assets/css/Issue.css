@@ -1,0 +1,100 @@
+.issue {
+    background-color: white;
+    width: 55%;
+    text-align: center;
+    margin-left: 22%;
+    margin-top: 5%;
+    padding-bottom: 1%;
+    padding-top: 2%;
+    margin-bottom: 5%;
+}
+
+.issue #msgBloquer {
+    padding-top: 70px;
+    padding-bottom: 35px;
+}
+
+.issue #alert {
+    text-align: center;
+    color: White;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    padding-left: 44.7%;
+    padding-right: 45%;
+    background-color: red;
+    width: 100%;
+}
+
+.issue #logout-btn {
+    background-color: red;
+    text-decoration: none;
+    padding: 12px;
+    color: Black;
+}
+
+.issue_b {
+    background-color: white;
+    width: 55%;
+    text-align: center;
+    margin-left: 22%;
+    margin-top: 5%;
+    padding-bottom: 3%;
+    padding-top: 2%;
+    margin-bottom: 5%;
+}
+
+.issue_b #msgBloquer_b {
+    padding-top: 70px;
+    padding-bottom: 35px;
+}
+
+.issue_b #alert_b {
+    color: White;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    padding-left: 43.6%;
+    padding-right: 43.7%;
+    background-color: red;
+    width: 100%;
+}
+
+.issue_b #logout-btn {
+    background-color: red;
+    text-decoration: none;
+    padding: 12px;
+    color: Black;
+}
+
+.issue {
+    background-color: white;
+    width: 55%;
+    text-align: center;
+    margin-left: 22%;
+    margin-top: 5%;
+    padding-bottom: 1%;
+    padding-top: 2%;
+    margin-bottom: 5%;
+}
+
+.issue #msgBloquer_v {
+    padding-top: 70px;
+    padding-bottom: 35px;
+}
+
+.issue #alert_v {
+    text-align: center;
+    color: White;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    padding-left: 33.25%;
+    padding-right: 33.1%;
+    background-color: green;
+    width: 100%;
+}
+
+.issue #logout-btn_v {
+    background-color: green;
+    text-decoration: none;
+    padding: 12px;
+    color: Black;
+}

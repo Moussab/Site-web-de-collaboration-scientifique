@@ -1,0 +1,96 @@
+
+.all-Conferences {
+/ / float: right;
+    width: 61%;
+    margin-left: 380px;
+    margin-right: 40px;
+    text-align: justify;
+}
+
+.the-Conference {
+    background-color: rgba(75, 155, 234, 0.8);
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    overflow: auto;
+}
+
+.the-Conference:hover {
+    box-shadow: 10px 10px 5px gray;
+}
+
+.the-Conference h2 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.the-Conference p {
+    padding-left: 180px;
+    padding-right: 20px;
+}
+
+.pagination {
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+#find-Conference {
+    margin-left: 80px;
+    text-align: justify;
+    width: 250px;
+    height: auto;
+    position: absolute;
+    top: 300px;
+    background-color: #143D55;
+    border: 3px solid white;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+#find-Conference h2 {
+    color: white;
+    margin-left: 20px;
+}
+
+.rechercheconferencr {
+    color: white;
+    margin-bottom: 10px;
+}
+
+#find-Conference h4 {
+    text-align: left;
+    color: white;
+    margin-left: 15px;
+}
+
+#AlphaAnnuel {
+    width: 230px;
+    border: 2px solid silver;
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 15px;
+    margin-top: -50px;
+}
+
+#find-Conference #doSearchConference {
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 40px;
+    background-color: #E8B960;
+    border: 1px solid #E8B960;
+    border-radius: 10px;
+    padding: 8px 10px;
+    width: 80%;
+    box-sizing: border-box;
+    font-family: PT sans;
+    font-size: 13px;
+    font-weight: normal;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #ffffff;
+    float: right;
+}

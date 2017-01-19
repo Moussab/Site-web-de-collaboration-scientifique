@@ -1,0 +1,37 @@
+
+.all-news {
+    width: 60%;
+    margin-left: 80px;
+    text-align: justify;
+}
+
+.the-new {
+    background-color: rgba(75, 155, 234, 0.8);
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    overflow: auto;
+}
+
+.the-new:hover {
+    box-shadow: 10px 10px 5px gray;
+}
+
+.the-new h3 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.the-new p {
+    padding-left: 180px;
+    padding-right: 20px;
+}
+
+.pagination {
+    margin-left: 450px;
+    margin-right: 450px;
+}

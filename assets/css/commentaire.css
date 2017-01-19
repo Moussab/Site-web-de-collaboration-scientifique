@@ -1,0 +1,30 @@
+#sectionCommentaire {
+    background-color: dimgray;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 60%;
+    height: auto;
+    margin-left: 100px;
+}
+
+#sectionCommentaire form {
+    margin: 20px;
+}
+
+#commentaireShow {
+    color: white;
+    height: auto;
+}
+
+#oneComment {
+    height: auto;
+    background-color: #333333;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 5px;
+}
+
+#noComment {
+    margin-left: 25px;
+}

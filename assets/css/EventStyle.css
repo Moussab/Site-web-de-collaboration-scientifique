@@ -1,0 +1,31 @@
+.imgEvent {
+    text-align: center;
+}
+
+.para:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.paraEvent {
+    width: auto;
+    height: auto;
+    margin: 70px 120px;
+}
+
+.btnEventDiv {
+    text-align: center;
+    width: 260px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: x-large;
+    background-color: #143D55;
+    margin-left: 420px;
+    border-radius: 60%;
+}
+
+.btn-Event {
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,61 @@
+h1 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    position: relative;
+    height: 33px;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+    clear: left;
+}
+
+footer ul {
+    list-style-type: none;
+    width: auto;
+    float: left;
+}
+
+footer ul li {
+    display: block;
+    float: left;
+    margin-left: 50px;
+
+}
+
+footer ul li a {
+    color: black;
+    font-weight: bold;
+    display: block;
+    float: left;
+    text-decoration: none;
+    padding: 0 0 0 20px;
+    height: 33px;
+}
+
+footer ul li a span {
+    padding-top: 20px;
+    padding-left: 0;
+    padding-bottom: 0;
+    height: 21px;
+    float: left;
+}
+
+footer ul li a:hover {
+    color: #fff;
+}
+
+footer ul li a:hover span {
+    display: block;
+    width: auto;
+    cursor: pointer;
+}
+
+footer ul {
+    margin-left: 80px;
+}

@@ -1,0 +1,66 @@
+iframe {
+    width: 98%;
+    height: 2000px;
+    margin-top: 5%;
+    float: right;
+    margin-right: 1%;
+}
+
+#outils {
+    margin: 80px;
+    padding-top: 5px;
+    background-color: white;
+    text-align: center;
+}
+
+#divContainer {
+    display: flex;
+    width: 100%;
+}
+
+#GestLogo {
+    text-align: center;
+    background-color: #1D6893;
+    width: 33.4%;
+
+}
+
+form input[type="submit"] {
+    width: 50%;
+    padding: 2%;
+    background-color: aliceblue;
+    color: black;
+    font-size: large;
+}
+
+.text-logo {
+    color: wheat;
+}
+
+#GestLogo a, #GestLogo button {
+    display: block;
+    background-color: #333333;
+    color: white;
+    text-decoration: none;
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 120px;
+}
+
+#GestCouleur {
+    text-align: center;
+    background-color: #1D6893;
+    width: 33.2%;
+}
+
+#GestMenu {
+    background-color: #1D6893;
+    width: 33.4%
+}
+
+#editNews {
+    margin-left: 200px;
+    width: 70%;
+    background-color: whitesmoke;
+}

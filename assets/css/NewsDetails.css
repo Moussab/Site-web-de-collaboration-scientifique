@@ -1,0 +1,41 @@
+.para {
+    margin-top: 1%;
+    width: 65%;
+    margin-left: 100px;
+}
+
+.imgNews {
+    float: left;
+    margin-top: 40px;
+    width: 150px;
+    height: 150px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
+#paragraphNewDetail {
+    text-align: justify;
+    padding: 30px 15px 15px;
+}
+
+.containerNews:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.events_n {
+    border: 2px outset #143D55;
+    border-radius: 10px;
+    width: 16%;
+    text-align: justify;
+    margin-top: 13%;
+    margin-right: -19%;
+    padding-left: 1%;
+    padding-right: 1%;
+    float: right;
+    position: static;
+
+}
+
